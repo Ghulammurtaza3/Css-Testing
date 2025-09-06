@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background-image: url(Ik.jpeg);
+    background-repeat: no-repeat;
+    /* background-color: aqua; */
+    /* background-size: cover;
+    height: 350px;
+    width: 440px; */
+}
+
+.box {
+    /* background-position: top center;
+    border: 2px solid red;
+    background-image: url(Ik.jpeg);
+    background-repeat: no-repeat; */
+    /* background-color: aqua; */
+    background-size: 100px ;
+    height: 1000px;
+    width: 340px;
+    background: red url(Ik.jpeg) scroll no-repeat top right;
+
+}
+
+/* }
+
+.red {
+    background-color: red;
+    color: white;
+
+}
+.green{
+    background-color: blue;
+    color: black;
+} */
